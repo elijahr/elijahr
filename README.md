@@ -15,4 +15,4 @@ Most of what lands here is Nim and Python, with C when I need it. I'm a big Nim 
 ### Away from the editor
 I DJ, tinker with electronics, and spend a lot of time on audio and DSP.
 
-Currently open to work, especially anything systems- or audio-shaped. Want to talk shop or think I'd fit something? [LinkedIn](https://www.linkedin.com/in/elijahru) · elijahr@gmail.com
+Currently open to work, especially anything systems- or audio-shaped. Resume: [elijahr.github.io/cv](https://elijahr.github.io/cv). Want to talk shop or think I'd fit something? [LinkedIn](https://www.linkedin.com/in/elijahru) · elijahr@gmail.com
