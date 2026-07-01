@@ -1,4 +1,4 @@
-# Hi, I'm Elijah 👋
+# Hi, I'm Lijah 👋
 
 I've been writing software for close to twenty years. What I love most is low-level work: lock-free data structures, memory reclamation, compiler tooling, realtime audio.
 
