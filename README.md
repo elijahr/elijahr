@@ -2,7 +2,7 @@
 
 I've been writing software professionally for close to twenty years and for fun, even longer. What I love most is low-level work: data structures, lock-free concurrency, compiler tooling, realtime audio, event systems, and programming languages.
 
-I mostly work in Python and Nim, and C when I need it. I ❤️ Nim: it reads clear like Python, has wild metaprogramming, and compiles fast to native code.
+I mostly work in Python and Nim, and C when I need it. I ❤️ Nim: it reads clear like Python, has elegant metaprogramming, and compiles fast to native code.
 
 ### A few things I've built
 - **[`lockfreequeues`](https://github.com/elijahr/lockfreequeues)** - lock-free queues for Nim: SPSC, SPMC, MPSC, and MPMC, bounded and unbounded.
@@ -15,8 +15,8 @@ I mostly work in Python and Nim, and C when I need it. I ❤️ Nim: it reads cl
 - **[`audiomancer`](https://github.com/axiomantic/audiomancer)** - MCP server for AI-assisted music production with TidalCycles.
 - **[`momus`](https://github.com/axiomantic/momus)** - AI code review as a GitHub Action. Works with any LLM provider.
 
-### Away from the editor
-I garden indoors and out, get around by bike, DJ, produce house & techno music, and love to dance.
+### Away from keyboard
+I garden indoors and out, get around by bike, DJ, produce house & techno music, and love to dance. I'm also teaching myself to weld, and I like designing and 3D-printing useful things.
 
 Currently open to work, especially systems or audio work. Resume: [elijahr.github.io/cv](https://elijahr.github.io/cv). 
 
