@@ -7,7 +7,7 @@ I mostly work in Python and Nim, and C when I need it. I ❤️ Nim: it reads cl
 ### A few things I've built
 - **[`lockfreequeues`](https://github.com/elijahr/lockfreequeues)** - lock-free queues for Nim: SPSC, SPMC, MPSC, and MPMC, bounded and unbounded. It's part of the Nim compiler's regression test suite.
 - **[`nim-debra`](https://github.com/elijahr/nim-debra)** - epoch-based memory reclamation (DEBRA+) for lock-free data structures in Nim.
-- **[`python-autopxd2`](https://github.com/elijahr/python-autopxd2)** - generates Cython `.pxd` bindings from C and C++ headers via `libclang`. Current maintainer and steward of this well-established project.
+- **[`python-autopxd2`](https://github.com/elijahr/python-autopxd2)** - generates Cython `.pxd` bindings from C and C++ headers via `libclang`. Primary maintainer and steward of this well-established project.
 - **[`ringbuf`](https://github.com/elijahr/ringbuf)** - lock-free single-producer/single-consumer ring buffer for realtime audio in Python and Cython.
 - **[`run-on-arch-action`](https://github.com/uraimo/run-on-arch-action)** - GitHub Action that runs CI on non-x86 CPUs (ARM, riscv64, s390x, ...) via QEMU. I have made major contributions.
 - **[`spellbook`](https://github.com/axiomantic/spellbook)** - multi-platform harness for AI coding assistants: skills, hooks, and a shared MCP server across Claude Code, OpenCode, Codex, Gemini CLI, and ForgeCode.
@@ -16,7 +16,7 @@ I mostly work in Python and Nim, and C when I need it. I ❤️ Nim: it reads cl
 - **[`momus`](https://github.com/axiomantic/momus)** - AI code review as a GitHub Action. Works with any LLM provider.
 
 ### I also contribute upstream
-I've merged fixes into the Nim compiler's type system and code generation, and into its formatter [`nph`](https://github.com/arnetheduck/nph) and C importer [`futhark`](https://github.com/PMunch/futhark). Elsewhere: Python's [`Black`](https://github.com/psf/black) and [`Cython`](https://github.com/cython/cython), and low-level C audio and messaging libraries like [`nng`](https://github.com/nanomsg/nng) and [`RtAudio`](https://github.com/thestk/rtaudio).
+I've merged fixes into the Nim compiler's type system and code generation, and into Nim ecosystem tools like the [`nph`](https://github.com/arnetheduck/nph) formatter and the [`futhark`](https://github.com/PMunch/futhark) C importer. Elsewhere: Python's [`Black`](https://github.com/psf/black) and [`Cython`](https://github.com/cython/cython), and low-level C audio and messaging libraries like [`nng`](https://github.com/nanomsg/nng) and [`RtAudio`](https://github.com/thestk/rtaudio).
 
 ### Away from keyboard
 I garden indoors and out, get around by bike, DJ, produce house & techno music, and love to dance. I'm also teaching myself to weld, and I like designing and 3D-printing useful things.
