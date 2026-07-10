@@ -11,7 +11,7 @@ I mostly work in Python and Nim, and C when I need it. I ❤️ Nim: it reads cl
 - **[`ringbuf`](https://github.com/elijahr/ringbuf)** - lock-free single-producer/single-consumer ring buffer for realtime audio in Python and Cython.
 - **[`run-on-arch-action`](https://github.com/uraimo/run-on-arch-action)** - GitHub Action that runs CI on non-x86 CPUs (ARM, riscv64, s390x, ...) via QEMU. I have made major contributions.
 - **[`spellbook`](https://github.com/axiomantic/spellbook)** - multi-platform harness for AI coding assistants: skills, hooks, and a shared MCP server across Claude Code, OpenCode, Codex, Gemini CLI, and ForgeCode.
-- **[`headerkit`](https://github.com/axiomantic/headerkit)** - C/C++ header parsing & transformation toolkit with pluggable backends and frontends.
+- **[`headerkit`](https://github.com/axiomantic/headerkit)** - clang-based C/C++ header parsing & transformation toolkit in Python with pluggable backends and frontends.
 - **[`audiomancer`](https://github.com/axiomantic/audiomancer)** - MCP server for AI-assisted music production with TidalCycles.
 - **[`momus`](https://github.com/axiomantic/momus)** - AI code review as a GitHub Action. Works with any LLM provider.
 
