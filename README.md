@@ -5,7 +5,7 @@ I've been writing software professionally for close to twenty years and for fun,
 I mostly work in Python and Nim, and C when I need it. I ❤️ Nim: it reads clear like Python, has elegant metaprogramming, and compiles fast to native code.
 
 ### A few things I've built
-- **[`lockfreequeues`](https://github.com/elijahr/lockfreequeues)** - lock-free queues for Nim: SPSC, SPMC, MPSC, and MPMC, bounded and unbounded.
+- **[`lockfreequeues`](https://github.com/elijahr/lockfreequeues)** - lock-free queues for Nim: SPSC, SPMC, MPSC, and MPMC, bounded and unbounded. It's part of the Nim compiler's regression test suite.
 - **[`nim-debra`](https://github.com/elijahr/nim-debra)** - epoch-based memory reclamation (DEBRA+) for lock-free data structures in Nim.
 - **[`python-autopxd2`](https://github.com/elijahr/python-autopxd2)** - generates Cython `.pxd` bindings from C and C++ headers via `libclang`. Current maintainer and steward of this well-established project.
 - **[`ringbuf`](https://github.com/elijahr/ringbuf)** - lock-free single-producer/single-consumer ring buffer for realtime audio in Python and Cython.
@@ -14,6 +14,9 @@ I mostly work in Python and Nim, and C when I need it. I ❤️ Nim: it reads cl
 - **[`headerkit`](https://github.com/axiomantic/headerkit)** - C/C++ header parsing & transformation toolkit with pluggable backends and frontends.
 - **[`audiomancer`](https://github.com/axiomantic/audiomancer)** - MCP server for AI-assisted music production with TidalCycles.
 - **[`momus`](https://github.com/axiomantic/momus)** - AI code review as a GitHub Action. Works with any LLM provider.
+
+### I also contribute upstream
+I've merged fixes into the Nim compiler's type system and code generation, and into its formatter [`nph`](https://github.com/arnetheduck/nph) and C importer [`futhark`](https://github.com/PMunch/futhark). Elsewhere: Python's [`Black`](https://github.com/psf/black) and [`Cython`](https://github.com/cython/cython), and low-level C audio and messaging libraries like [`nng`](https://github.com/nanomsg/nng) and [`RtAudio`](https://github.com/thestk/rtaudio).
 
 ### Away from keyboard
 I garden indoors and out, get around by bike, DJ, produce house & techno music, and love to dance. I'm also teaching myself to weld, and I like designing and 3D-printing useful things.
