@@ -14,6 +14,7 @@ I mostly work in Python and Nim, and C when I need it. I ❤️ Nim: it reads cl
 - **[`headerkit`](https://github.com/axiomantic/headerkit)** - clang-based C/C++ header parsing & transformation toolkit in Python with pluggable backends and frontends.
 - **[`audiomancer`](https://github.com/axiomantic/audiomancer)** - MCP server for AI-assisted music production with TidalCycles.
 - **[`momus`](https://github.com/axiomantic/momus)** - AI code review as a GitHub Action. Works with any LLM provider.
+- **[`komputers`](https://github.com/axiomantic/komputers)** - GPU compute in Rust over the Kompute Vulkan framework: safe wrapper, C++ FFI bridge, and hand-written GLSL compute shaders (matmul, parallel reductions). Experimental.
 
 ### I also contribute upstream
 I've merged fixes into the Nim compiler's type system and code generation, and into Nim ecosystem tools like the [`nph`](https://github.com/arnetheduck/nph) formatter and the [`futhark`](https://github.com/PMunch/futhark) C importer. Elsewhere: Python's [`Black`](https://github.com/psf/black) and [`Cython`](https://github.com/cython/cython), and low-level C audio and messaging libraries like [`nng`](https://github.com/nanomsg/nng) and [`RtAudio`](https://github.com/thestk/rtaudio).
