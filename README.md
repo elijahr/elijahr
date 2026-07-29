@@ -1,6 +1,6 @@
 # Hi, I'm Lijah 👋
 
-I've been writing software professionally for close to twenty years and for fun, even longer. What I love most is low-level work: data structures, lock-free concurrency, compiler tooling, realtime audio, event systems, and programming languages.
+I've been writing software professionally for close to twenty years and for fun, even longer. What I love most is low-level work: data structures, lock-free concurrency, compiler tooling, developer tooling, realtime/audio, event systems, and programming languages.
 
 I mostly work in Python and Nim, and C when I need it. I ❤️ Nim: it reads clear like Python, has elegant metaprogramming, and compiles fast to native code.
 
